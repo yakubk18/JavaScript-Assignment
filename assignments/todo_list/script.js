@@ -2,7 +2,6 @@ let todos = [];
 var addToDoButton = document.querySelector('button');
 // var inputfield = document.querySelector('input');
 var todo = document.querySelector('.todos')
-// var i = 0;
 let drop = document.querySelector("#dropdown");
 addToDoButton.addEventListener("click", work);
 
